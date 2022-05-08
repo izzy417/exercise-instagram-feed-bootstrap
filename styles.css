@@ -17,3 +17,13 @@
     right: 54rem;
     top: 0.5rem;
 }
+
+#home-tab {
+    background-color: white;
+    border-radius: 1rem;
+}
+
+#profile-tab {
+    background-color: white;
+    border-radius: 1rem;
+}
